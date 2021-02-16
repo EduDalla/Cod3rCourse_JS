@@ -42,7 +42,7 @@ console.log(!!(isAtivo = true)
 
 ,console.log(!!0) 
 
-,Console.log(!!0) 
+,console.log(!!0) 
 
 ,console.log(!!'') 
 
@@ -58,7 +58,7 @@ console.log(!!(isAtivo = true)
 
 ,console.log('pra finalizar...') 
 
-,console,log(!!('' || null || 0 || ' ' ))  // pelo menos um desses tem que ser verdadeiro para dar true(‘ ‘), caso ao contrário vai dar false. 
+,console.log(!!('' || null || 0 || ' ' ))  // pelo menos um desses tem que ser verdadeiro para dar true(‘ ‘), caso ao contrário vai dar false. 
 
 ,let ,nome = ' '
 
@@ -66,6 +66,5 @@ console.log(!!(isAtivo = true)
 
  
 
-,let ,nome = ('Lucas')
-
+,let ,nome = ('Lucas')))
 
